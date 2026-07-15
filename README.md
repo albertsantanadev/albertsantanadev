@@ -10,11 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/albert-santos-01a6982b0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Albert%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/albertsantanadev?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="GitHub followers"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbertsantanadev&count_bg=%2300C4B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile views"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/albert-santos-01a6982b0)
+[![Portfólio](https://img.shields.io/badge/Portfólio-CIn%20UFPE-17a2b8?style=for-the-badge&logo=firefox&logoColor=white)](https://www.cin.ufpe.br/~ass13/)
+[![E-mail CIn](https://img.shields.io/badge/Email%20CIn-ass13%40cin.ufpe.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ass13@cin.ufpe.br)
+[![E-mail Pessoal](https://img.shields.io/badge/Email-albert.santos.s.t.i%40gmail.com-34A853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albert.santos.s.t.i@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=albertsantanadev&label=VIEWS&color=00C4B4&style=for-the-badge" alt="Profile views" valign="middle"/>
+
 </p>
 
 <br/>
@@ -33,6 +35,12 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+**Bancos de Dados**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Infraestrutura & Redes**
@@ -55,6 +63,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -62,30 +71,28 @@
 
 ## 🏆 Projeto em Destaque
 
-<p align="center">
-  <a href="https://github.com/emfs2-byte/D.S-Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emfs2-byte&repo=D.S-Project&theme=tokyonight&show_owner=true" alt="CliniDesk"/>
-  </a>
-</p>
+[![CliniDesk](https://github-readme-stats.vercel.app/api/pin/?username=emfs2-byte&repo=D.S-Project&theme=tokyonight&show_owner=true)](https://github.com/emfs2-byte/D.S-Project)
 
-<p align="center">
-  <b>CliniDesk</b> — MVP Full-Stack de agendamento para clínicas, desenvolvido para o <b>Núcleo da Pessoa Idosa (NPI)</b> da UFPE.
-  Atuei como <b>Desenvolvedor Full-Stack</b>, implementando front-end em React, API REST em Node.js/Express e integração com MongoDB,
-  incluindo autenticação segura, alertas em tempo real e testes automatizados.
-</p>
+**CliniDesk** — MVP Full-Stack de agendamento para clínicas, desenvolvido para o **Núcleo da Pessoa Idosa (NPI)** da UFPE.
+Atuei como **Desenvolvedor Full-Stack**, implementando front-end em React, API REST em Node.js/Express e integração com MongoDB,
+incluindo autenticação segura, alertas em tempo real e testes automatizados.
 
 <br/>
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertsantanadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertsantanadev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="39%"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=albertsantanadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=albertsantanadev&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=albertsantanadev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=albertsantanadev&theme=tokyonight&hide_border=true)
+
+<br/>
+
+## 🌱 Foco Atual de Estudos
+
+- 🐳 **Docker & Containers** (Construção de ambientes isolados e consistentes)
+- 🔄 **CI/CD com GitHub Actions** (Automatizando deploys e testes de software)
+- ☁️ **Cloud Computing** (Explorando arquiteturas em nuvem)
 
 <br/>
 
